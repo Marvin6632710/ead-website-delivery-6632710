@@ -4,6 +4,10 @@ Class 3: Git, GitHub and artifact delivery. Class 4: Docker image delivery.
 
 Each commit saves the staged snapshot, so changes must be added before they are included.
 
+## Repository purpose
+
+This repository is for practicing Git commits, branches and pull requests, and building a website artifact through a checked GitHub Actions workflow.
+
 ## Local use
 Requires Python 3.11 or newer and Git. No pip install is needed.
 
